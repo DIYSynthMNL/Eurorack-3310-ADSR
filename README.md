@@ -17,8 +17,11 @@ An ADSR envelope generator module based on the AS3310 chip (Electric Druid).
 
 ## References
 
-- [Electric Druid AS3310 product page](https://electricdruid.net/product/as3310-vcadsr/)
-- Design inspiration: [Bumm Bumm Garage Voltage Controlled Envelope Generator](https://www.bummbummgarage.com/modules/voltage-controlled-envelope-generator-vceg/)
+Local archived copies live in [`references/`](references/) so this repo stays useful if the upstream links die.
+
+- **AS3310 datasheet** — [local copy](references/AS3310-alfatriode-2023-v7.pdf) · [upstream (alfatriode.lv)](https://alfatriode.lv/eng/sc/AS3310.pdf)
+- **Electric Druid AS3310 product page** — [upstream](https://electricdruid.net/product/as3310-vcadsr/)
+- **Design inspiration: Bumm Bumm Garage VCEG** — [upstream](https://www.bummbummgarage.com/modules/voltage-controlled-envelope-generator-vceg/) (page is JS/bot-protected; save manually if you want a local archive)
 
 ## Build status
 
