@@ -20,18 +20,25 @@ An ADSR envelope generator module based on the AS3310 chip (Electric Druid).
 
 ## Build status
 
-What's available for builders, and what's still on the TODO list:
+What's ready for builders today, and what's still on the TODO list:
 
-- [x] Schematic PDF (latest Rev 0.1.3) — [Eurorack-AS3310-ADSR-Schematic-Rev0.1.3.pdf](Schematic%20PDFs/Eurorack-AS3310-ADSR-Schematic-Rev0.1.3.pdf)
-- [x] KiCad source files — [kicad/](kicad/)
-- [ ] Gerber files for PCB fabrication — *not yet exported — generate from kicad/ before sending to a fab*
-- [ ] Bill of materials (BOM) — *not yet exported*
-- [x] 3D-printed front panel STL — [3310_ADSR.stl](3D%20printed%20front%20panel/3310_ADSR.stl)
-- [ ] Front panel graphics (SVG/PDF for fab-made panels) — *not yet exported*
-- [ ] Photos of the assembled module — *not yet — coming soon*
-- [ ] Demo video — *not yet recorded*
-- [ ] Build / assembly instructions — *not yet written*
-- [ ] Calibration / tuning notes — *not yet written*
-- [ ] License — *no LICENSE file yet*
+**Production assets** (what you need to actually fabricate and assemble a final unit)
 
-If you want to help fill a gap (build photos, gerbers, an assembly guide), open an issue or PR.
+- [x] Schematic — Rev 0.1.3 ([Eurorack-AS3310-ADSR-Schematic-Rev0.1.3.pdf](Schematic%20PDFs/Eurorack-AS3310-ADSR-Schematic-Rev0.1.3.pdf))
+- [ ] PCB layout — in progress — single working layout in `kicad/`, not yet separated for fab
+- [ ] Gerber files for fabrication — none yet
+- [ ] BOM — none yet
+- [ ] Final front panel (SVG/PDF for fab) — none yet
+- [ ] License — none yet
+
+**Prototype assets** (for breadboard / perfboard / 3D-printed-panel builds before final PCB)
+
+- [x] 3D-printed prototype panel STL — [3310_ADSR.stl](3D%20printed%20front%20panel/3310_ADSR.stl)
+
+**Documentation**
+
+- [ ] Photos of the assembled module — none yet
+- [ ] Demo video — none yet
+- [ ] Build / assembly instructions — none yet
+
+Want to help fill a gap (build photos, gerbers, an assembly guide)? Open an issue or PR.
