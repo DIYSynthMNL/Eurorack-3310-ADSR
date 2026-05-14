@@ -1,5 +1,7 @@
 # Eurorack-3310-ADSR
 
+![AS3310 ADSR assembled](photos/front.jpg)
+
 An ADSR envelope generator module based on the AS3310 chip (Electric Druid).
 
 ## Schematic
@@ -37,7 +39,7 @@ What's ready for builders today, and what's still on the TODO list:
 
 **Documentation**
 
-- [ ] Photos of the assembled module — none yet (drop in [`photos/`](photos/))
+- [x] Photos of the assembled module — see [photos/](photos/)
 - [ ] Demo video — none yet
 - [ ] Build / assembly instructions — none yet
 
