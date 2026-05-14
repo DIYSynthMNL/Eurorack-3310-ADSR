@@ -22,7 +22,7 @@ An ADSR envelope generator module based on the AS3310 chip (Electric Druid).
 
 What's available for builders, and what's still on the TODO list:
 
-- [x] Schematic PDF (latest Rev 0.1.3) — [Eurorack-AS3310-ADSR-Schematic-Rev0.1.3.pdf](schematic%20pdfs/Eurorack-AS3310-ADSR-Schematic-Rev0.1.3.pdf)
+- [x] Schematic PDF (latest Rev 0.1.3) — [Eurorack-AS3310-ADSR-Schematic-Rev0.1.3.pdf](Schematic%20PDFs/Eurorack-AS3310-ADSR-Schematic-Rev0.1.3.pdf)
 - [x] KiCad source files — [kicad/](kicad/)
 - [ ] Gerber files for PCB fabrication — *not yet exported — generate from kicad/ before sending to a fab*
 - [ ] Bill of materials (BOM) — *not yet exported*
